@@ -30,4 +30,7 @@ The most rewarding part of the internship was applying everything I learned in r
 
 This project has helped me build confidence in backend development and given me a clear understanding of how RESTful services work. The API I developed can serve as the backend for any library or educational institution and can be extended further to include user authentication, borrowing history, fine calculations, and more.
 
+# API DOCUMENTATION WITH FUNCTIONAL ENDPOINTS
+internship API DOC.pdf
+
 In conclusion, this internship allowed me to enhance both my technical and problem-solving skills. I now feel better prepared to take on software development tasks and contribute to real-world projects in the software industry.
